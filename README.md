@@ -1,0 +1,1 @@
+# sbpallets-assistant
